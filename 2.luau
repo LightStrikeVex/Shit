@@ -132,7 +132,8 @@ local oldbuttons = {}
 
 local animations = {
 	{name = "California\nGirls", id = 124982597491660, speed = 1, timepos = 0},
-  {name = "hide", id = 121167704249654, speed = 1, timepos = 0},
+    {name = "invisible", id = 108210268078796, speed = 1, timepos = 0},
+    {name = "hide", id = 90569241075391, speed = 1, timepos = 0},
 	{name = "Helicopter", id = 95301257497525, speed = 1, timepos = 0},
 	{name = "Helicopter 2", id = 122951149300674, speed = 1, timepos = 0},
 	{name = "Helicopter 3", id = 91257498644328, speed = 1, timepos = 0},
