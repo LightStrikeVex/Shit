@@ -13974,7 +13974,7 @@ end, true)
 bang, bangAnim, bangLoop, bangDied, bangParts = nil, nil, nil, nil, {}
 
 cmd.add({"headbang", "mouthbang", "headfuck", "mouthfuck", "facebang", "facefuck", "hb", "mb"}, {"headbang <player> (mouthbang,headfuck,mouthfuck,facebang,facefuck,hb,mb)", "Bang them in the mouth because you are gay"}, function(h, d)
-	local speed = d or 10
+	local speed = d or 3
 	local username = h
 	local players = getPlr(username)
 	if #players == 0 then return end
