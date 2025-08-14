@@ -132,7 +132,12 @@ local oldbuttons = {}
 
 local animations = {
 	{name = "California\nGirls", id = 124982597491660, speed = 1, timepos = 0},
-  {name = "Dick", id = 126534971736559, speed = 1, timepos = 0},
+    {name = "Dick", id = 126534971736559, speed = 1, timepos = 0},
+    {name = "Sunflower", id = 95894948496521, speed = 1, timepos = 0},
+	{name = "Drone1", id = 86306602358470, speed = 1, timepos = 0},
+	{name = "Drone2", id = 118592095684994, speed = 1, timepos = 0},
+	{name = "Drone3", id = 121049172692579, speed = 1, timepos = 0},
+	{name = "Drone4", id = 125972205391287, speed = 1, timepos = 0},
 	{name = "Helicopter", id = 95301257497525, speed = 1, timepos = 0},
 	{name = "Helicopter 2", id = 122951149300674, speed = 1, timepos = 0},
 	{name = "Helicopter 3", id = 91257498644328, speed = 1, timepos = 0},
